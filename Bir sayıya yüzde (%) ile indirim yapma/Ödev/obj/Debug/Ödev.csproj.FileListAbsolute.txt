@@ -1,0 +1,7 @@
+D:\vs projeler\Ödev\Ödev\bin\Debug\Ödev.exe.config
+D:\vs projeler\Ödev\Ödev\bin\Debug\Ödev.exe
+D:\vs projeler\Ödev\Ödev\bin\Debug\Ödev.pdb
+D:\vs projeler\Ödev\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+D:\vs projeler\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+D:\vs projeler\Ödev\Ödev\obj\Debug\Ödev.exe
+D:\vs projeler\Ödev\Ödev\obj\Debug\Ödev.pdb
